@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lechuga
+comment0.text=\r\n\ La\ clase\ lechuga\ es\ una\ clase\ vacia.\ Nos\ sirve\ para\ que\ nuestra\ tortuga\ pueda\ comersela\ eh\ ir\r\n\ contado\ las\ puntuaciones\ que\ va\ acumulando.\r\n\ \r\n\ @author\ (BRYAN\ CUADRADO)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Lechuga\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2
