@@ -1,5 +1,4 @@
 buenos dias
-
 2. Probamos a subir este cambio a la rama main a través de los comandos.
 3. Probamos el metodo para subir correctamemte las cosas
 
